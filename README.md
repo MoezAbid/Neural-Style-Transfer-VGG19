@@ -8,4 +8,4 @@ Here's an example :
 
 __Source of the example image : https://neurohive.io/wp-content/uploads/2018/08/neural-style-transfer-example-e1530287419338.jpg__
 
-![Kaggle kernel](https://www.kaggle.com/moezabid/neural-style-transfer-demo)
+[Kaggle kernel](https://www.kaggle.com/moezabid/neural-style-transfer-demo)
